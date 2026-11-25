@@ -1,0 +1,3 @@
+-keepattributes Signature,InnerClasses,EnclosingMethod
+-keep class com.dbit.nannashikshana.data.remote.dto.** { *; }
+-keepclassmembers class com.dbit.nannashikshana.data.remote.dto.** { *; }

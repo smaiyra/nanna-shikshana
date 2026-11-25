@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ ಶಿಕ್ಷಣ</string>
+    <string name="app_sub">Nanna Shikshana</string>
+    <string name="institution">ಡಾನ್ ಬಾಸ್ಕೋ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಟೆಕ್ನಾಲಜಿ</string>
+    <string name="institution_full">ಡಾನ್ ಬಾಸ್ಕೋ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಟೆಕ್ನಾಲಜಿ, ಬೆಂಗಳೂರು (ವಿಟಿಯು ಅಡಿಯಲ್ಲಿ ಸ್ವಾಯತ್ತ ಸಂಸ್ಥೆ)</string>
+    <string name="lang_toggle_button">English (EN)</string>
+
+    <string name="offline_mode">೧೦೦% ಆಫ್‌ಲೈನ್ ಮೋಡ್ · ೦ ಕೆಬಿ ಡೇಟಾ</string>
+    <string name="storage_badge">Room SQLite</string>
+    <string name="sync_status_offline">ಆಫ್‌ಲೈನ್ · %1$d ಬಾಕಿ</string>
+    <string name="sync_status_syncing">ಸಿಂಕ್ ಆಗುತ್ತಿದೆ…</string>
+    <string name="sync_status_synced">ಸರ್ವರ್‌ನೊಂದಿಗೆ ಸಿಂಕ್ ಆಗಿದೆ</string>
+    <string name="sync_now">ಸಿಂಕ್</string>
+
+    <string name="streak_title">ದಿನದ ಸ್ಟ್ರೀಕ್</string>
+    <string name="streak_freezes">ಫ್ರೀಜ್‌ಗಳು</string>
+    <string name="current_level">ಪ್ರಸ್ತುತ ಹಂತ</string>
+    <string name="xp_unit">%1$d XP</string>
+    <string name="progress_pct">%1$d%% ಪೂರ್ಣ</string>
+    <string name="to_next_level">ಮುಂದಿನ ಹಂತಕ್ಕೆ %1$d ಎಕ್ಸ್‌ಪಿ ಬೇಕು</string>
+    <string name="max_rank_attained">ಗರಿಷ್ಠ ಹಂತ ತಲುಪಿದೆ</string>
+
+    <string name="daily_quests">ದೈನಂದಿನ ಮಿಷನ್‌ಗಳು (Quests)</string>
+    <string name="resets_daily">ಪ್ರತಿದಿನ 00:00ಕ್ಕೆ ಮರುಹೊಂದಿಕೆ</string>
+    <string name="claim_xp">ಎಕ್ಸ್‌ಪಿ ಪಡೆಯಿರಿ</string>
+    <string name="claimed">ಪಡೆದುಕೊಂಡಿದೆ</string>
+
+    <string name="curriculum_feed">ಕರ್ನಾಟಕ ಗ್ರಾಮೀಣ ಪಠ್ಯಕ್ರಮ (KTBS)</string>
+    <string name="modules_count">%1$d ಮಾಡ್ಯೂಲ್‌ಗಳು</string>
+    <string name="filter_all">ಎಲ್ಲಾ</string>
+    <string name="filter_math">ಗಣಿತ</string>
+    <string name="filter_science">ವಿಜ್ಞಾನ</string>
+    <string name="filter_kannada">ಕನ್ನಡ</string>
+    <string name="filter_social">ಸಮಾಜ</string>
+    <string name="start_lesson">ಪಾಠ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="resume_lesson">ಮುಂದುವರಿಸಿ</string>
+    <string name="completed_lesson">ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="vector_ready">ವೆಕ್ಟರ್ ಪಾಠ ಸಿದ್ಧವಾಗಿದೆ</string>
+    <string name="download_pack">ಪ್ಯಾಕ್ ಡೌನ್‌ಲೋಡ್</string>
+    <string name="pack_downloaded">ಆಫ್‌ಲೈನ್ ಪ್ಯಾಕ್ ಸಿದ್ಧ</string>
+
+    <string name="tab_home">ಮುಖಪುಟ</string>
+    <string name="tab_learn">ಪಾಠ &amp; ರಸಪ್ರಶ್ನೆ</string>
+    <string name="tab_p2p">ಮೆಶ್ ಪಿ೨ಪಿ</string>
+    <string name="tab_rank">ಶ್ರೇಯಾಂಕ</string>
+    <string name="tab_about">ಮಾಹಿತಿ</string>
+
+    <string name="back_to_dashboard">ಪಾಠಗಳ ಪಟ್ಟಿಗೆ ಹಿಂತಿರುಗಿ</string>
+    <string name="mode_reader">ಪಾಠ ಓದು</string>
+    <string name="mode_quiz">ರಸಪ್ರಶ್ನೆ (೩)</string>
+    <string name="listen_kannada">ಕನ್ನಡದಲ್ಲಿ ಆಲಿಸಿ 🔊</string>
+    <string name="stop_audio">ಆಡಿಯೋ ನಿಲ್ಲಿಸಿ ⏹️</string>
+    <string name="interactive_diagram">ಸಂವಾದಾತ್ಮಕ ಕಲಿಕಾ ಮಾದರಿ</string>
+    <string name="lesson_concept">ಪಾಠದ ಮುಖ್ಯ ಪರಿಕಲ್ಪನೆ</string>
+    <string name="take_quiz_btn">೩-ಪ್ರಶ್ನೆಗಳ ರಸಪ್ರಶ್ನೆ ಪ್ರಾರಂಭಿಸಿ</string>
+
+    <string name="fraction_title">ಸಂವಾದಾತ್ಮಕ ರೊಟ್ಟಿ/ವೃತ್ತ ಅಪೂರ್ಣಾಂಕ</string>
+    <string name="fraction_sub">ತುಂಡುಗಳನ್ನು ಆರಿಸಲು ಸ್ಪರ್ಶಿಸಿ</string>
+    <string name="fraction_filled">%1$d%% ಭಾಗ</string>
+    <string name="fraction_value">ಅಪೂರ್ಣಾಂಕ ಮೌಲ್ಯ</string>
+    <string name="fraction_formula">ಅಂಶ ÷ ಛೇದ</string>
+    <string name="fraction_set_slices">ಛೇದವನ್ನು ಬದಲಾಯಿಸಿ (ಸಮಭಾಗಗಳು):</string>
+    <string name="fraction_slices_label">%1$d ಭಾಗ</string>
+
+    <string name="photo_title">ದ್ಯುತಿಸಂಶ್ಲೇಷಣಾ ಜೈವಿಕ ಮಾದರಿ</string>
+    <string name="photo_sub">ಬೆಳಕು ಮತ್ತು ನೀರನ್ನು ನಿಯಂತ್ರಿಸಿ</string>
+    <string name="photo_active">● ಆಹಾರ ತಯಾರಿಕೆ ಸಕ್ರಿಯ</string>
+    <string name="photo_halted">▲ ನಿಷ್ಕ್ರಿಯ (ಬೆಳಕು ಬೇಕು)</string>
+    <string name="sunlight_on">ಬೆಳಕು: ಇದೆ (ON)</string>
+    <string name="sunlight_off">ಬೆಳಕು: ಇಲ್ಲ (OFF)</string>
+    <string name="water_on">ನೀರು: ಇದೆ (ON)</string>
+    <string name="water_off">ನೀರು: ಇಲ್ಲ (OFF)</string>
+    <string name="reaction_label">ಸಮೀಕರಣ:</string>
+    <string name="reaction_formula">6CO₂ + 6H₂O + ಸೂರ್ಯನ ಬೆಳಕು → C₆H₁₂O₆ + 6O₂</string>
+
+    <string name="vowel_title">ಸ್ವರಗಳ ಸಂವಾದಾತ್ಮಕ ಧ್ವನಿಫಲಕ</string>
+    <string name="vowel_sub">ಉಚ್ಚಾರಣೆ ಮತ್ತು ಉದಾಹರಣೆ ಕೇಳಲು ಅಕ್ಷರ ಸ್ಪರ್ಶಿಸಿ</string>
+    <string name="listen_short">ಕೇಳಿ</string>
+    <string name="vowel_example_caption">ಉದಾಹರಣೆ ಪದ ಮತ್ತು ಅರ್ಥ</string>
+
+    <string name="hoysala_title">ಹೊಯ್ಸಳ ನಕ್ಷತ್ರಾಕಾರದ ಜಗತಿ ವಾಸ್ತುಶಿಲ್ಪ</string>
+    <string name="hoysala_sub">ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ದೇವಾಲಯದ ಜಗತಿ ವಿನ್ಯಾಸ</string>
+    <string name="hoysala_year">ಕ್ರಿ.ಶ. ೧೧೧೭</string>
+    <string name="hoysala_sanctum">ಗರ್ಭಗೃಹ</string>
+    <string name="hoysala_tab_platform">ಜಗತಿ (ಪ್ಲಾಟ್‌ಫಾರ್ಮ್)</string>
+    <string name="hoysala_tab_pillars">ಕಂಬಗಳು (Pillars)</string>
+    <string name="hoysala_tab_sculpture">ಕೆತ್ತನೆ ಸಾಲುಗಳು</string>
+    <string name="hoysala_desc_platform">ನಕ್ಷತ್ರಾಕಾರದ ಜಗತಿ (Stellate Star Platform)</string>
+    <string name="hoysala_desc_pillars">ಲೇತ್ ಯಂತ್ರದಲ್ಲಿ ತಿರುಗಿಸಿದ ನಯವಾದ ಕಂಬಗಳು</string>
+    <string name="hoysala_desc_sculpture">ಆನೆ (ಶಕ್ತಿ) - ಸಿಂಹ (ಧೈರ್ಯ) ಸಾಲುಗಳು</string>
+
+    <string name="quiz_question_progress">ಪ್ರಶ್ನೆ %1$d ರ ಪೈಕಿ %2$d</string>
+    <string name="quiz_pool">+%1$d XP ಗಳಿಕೆ</string>
+    <string name="submit_answer">ಉತ್ತರ ಖಚಿತಪಡಿಸಿ</string>
+    <string name="next_question">ಮುಂದಿನ ಪ್ರಶ್ನೆ</string>
+    <string name="see_results">ಫಲಿತಾಂಶ ನೋಡಿ</string>
+    <string name="correct_answer">ಅದ್ಭುತ! ಸರಿಯಾದ ಉತ್ತರ (+೨೦ XP)</string>
+    <string name="incorrect_answer">ಸರಿಯಲ್ಲ, ಈ ವಿವರಣೆ ಗಮನಿಸಿ:</string>
+    <string name="quiz_completed">ರಸಪ್ರಶ್ನೆ ಪೂರ್ಣಗೊಂಡಿದೆ!</string>
+    <string name="perfect_score">ಅಪ್ರತಿಮ ನೂರಕ್ಕೆ ನೂರು ಅಂಕಗಳು! 🌟</string>
+    <string name="good_job">ಉತ್ತಮ ಪ್ರಯತ್ನ! ಇನ್ನಷ್ಟು ಅಭ್ಯಾಸ ಮಾಡಿ.</string>
+    <string name="correct_answers_label">ಸರಿಯಾದ ಉತ್ತರಗಳು</string>
+    <string name="earn_total_xp">ಗಳಿಸಿದ ಒಟ್ಟು ಎಕ್ಸ್‌ಪಿ</string>
+    <string name="retake_quiz">ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="finish_lesson">ಪಾಠ ಮುಗಿಸಿ ಉಳಿಸಿ</string>
+
+    <string name="p2p_title">ವೈ-ಫೈ ಡೈರೆಕ್ಟ್ P2P ಮೆಶ್ ಹಂಚಿಕೆ</string>
+    <string name="p2p_subtitle">ಇಂಟರ್ನೆಟ್ ಇಲ್ಲದೆ ಮೊಬೈಲ್‌ನಿಂದ ಮೊಬೈಲ್‌ಗೆ ಉಚಿತವಾಗಿ ಪಾಠಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಿ</string>
+    <string name="transfer_speed">ಸರಾಸರಿ ವೇಗ: ೪.೮ MB/s · ಆಫ್‌ಲೈನ್ ನೇರ ವರ್ಗಾವಣೆ</string>
+    <string name="step_1">ಹಂತ ೧: ಪಾಠದ ಪ್ಯಾಕೇಜ್ ಆರಿಸಿ</string>
+    <string name="step_2">ಹಂತ ೨: ಹತ್ತಿರದ ಸಹಪಾಠಿಗಳ ಫೋನ್‌ಗಳನ್ನು ಹುಡುಕಿ</string>
+    <string name="step_3">ಹಂತ ೩: ವೈ-ಫೈ ಡೈರೆಕ್ಟ್ ಮೂಲಕ ವೇಗವಾಗಿ ವರ್ಗಾಯಿಸಿ</string>
+    <string name="scan_radar_btn">ಹತ್ತಿರದ ಫೋನ್‌ಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="rescan_radar_btn">ಮತ್ತೆ ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="scanning">ಹತ್ತಿರದ ಸಾಧನಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
+    <string name="found_peers">ಕಂಡುಬಂದ ಸಹಪಾಠಿಗಳ ಮೊಬೈಲ್‌ಗಳು (%1$d)</string>
+    <string name="transfer_btn">ವೈ-ಫೈ ಡೈರೆಕ್ಟ್ ಮೂಲಕ ಕಳುಹಿಸಿ</string>
+    <string name="transferring">P2P ಮೆಶ್ ಮೂಲಕ ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="transfer_success">ವರ್ಗಾವಣೆ ಯಶಸ್ವಿಯಾಗಿದೆ ಮತ್ತು ಪರಿಶೀಲಿಸಲಾಗಿದೆ!</string>
+    <string name="hash_verified">ಪ್ಯಾಕೇಜ್ ಪರಿಶೀಲನೆ ಪೂರ್ಣ: ೦ ಕೆಬಿ ಡೇಟಾ ಬಳಕೆ</string>
+    <string name="checksum_label">SHA-256 ಚೆಕ್‌ಸಮ್:</string>
+    <string name="p2p_quest_bonus">+100 XP ಮಿಷನ್ 🌟</string>
+
+    <string name="leaderboard_title">ಸ್ಥಳೀಯ ತರಗತಿಯ ಶ್ರೇಯಾಂಕ ಪಟ್ಟಿ</string>
+    <string name="leaderboard_subtitle">ಸರ್ಕಾರಿ ಪ್ರೌಢಶಾಲೆ, ಚನ್ನಪಟ್ಟಣ · ಸ್ಥಳೀಯ ಮೆಶ್‌ನಲ್ಲಿ ನವೀಕರಿಸಲಾಗಿದೆ</string>
+    <string name="rank_student_header">ಸ್ಥಾನ &amp; ವಿದ್ಯಾರ್ಥಿ</string>
+    <string name="streak_col">ಸ್ಟ್ರೀಕ್</string>
+    <string name="xp_col">ಒಟ್ಟು ಎಕ್ಸ್‌ಪಿ</string>
+    <string name="you_tag">ನೀವು</string>
+    <string name="badges_title">ಸಾಧನೆಗಳ ಪದಕಗಳು ಮತ್ತು ಪ್ರಶಸ್ತಿಗಳು</string>
+    <string name="badges_progress">%1$d / %2$d ಗಳಿಸಲಾಗಿದೆ</string>
+    <string name="unlocked_badge">ಗಳಿಸಲಾಗಿದೆ</string>
+    <string name="locked_badge">ಅನ್‌ಲಾಕ್ ಆಗಿಲ್ಲ</string>
+    <string name="rarity_badge">%1$s ಪದಕ</string>
+
+    <string name="about_header">ನಮ್ಮ ಶಿಕ್ಷಣ | Nanna Shikshana</string>
+    <string name="about_tagline">ಕರ್ನಾಟಕದ ಗ್ರಾಮೀಣ ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ ಶೂನ್ಯ ಇಂಟರ್ನೆಟ್ ಆಧಾರಿತ ವೆಕ್ಟರ್ ಕಲಿಕಾ ವೇದಿಕೆ</string>
+    <string name="academic_institution">ಶೈಕ್ಷಣಿಕ ಸಂಸ್ಥೆ</string>
+    <string name="college_name">ಡಾನ್ ಬಾಸ್ಕೋ ಇನ್‌ಸ್ಟಿಟ್ಯೂಟ್ ಆಫ್ ಟೆಕ್ನಾಲಜಿ, ಬೆಂಗಳೂರು</string>
+    <string name="autonomous_tag">ವಿಟಿಯು ಅಡಿಯಲ್ಲಿ ಸ್ವಾಯತ್ತ ಎಂಜಿನಿಯರಿಂಗ್ ಕಾಲೇಜು</string>
+    <string name="problem_statement">ಗ್ರಾಮೀಣ ಕರ್ನಾಟಕದ ವಾಸ್ತವ ಸಮಸ್ಯೆ</string>
+    <string name="problem_desc">ಕರ್ನಾಟಕದ ಗ್ರಾಮೀಣ ಪ್ರದೇಶಗಳಲ್ಲಿ ೬೪% ಕ್ಕೂ ಹೆಚ್ಚು ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ನಿರಂತರ ವಿದ್ಯುತ್ ಹಾಗೂ ಇಂಟರ್ನೆಟ್ ಕೊರತೆ ಇದೆ. ಮಾಸಿಕ ರೀಚಾರ್ಜ್ ದುಬಾರಿ ಮತ್ತು ಹಳೆಯ ೨ಜಿಬಿ-೩ಜಿಬಿ ರ‍್ಯಾಮ್ ಫೋನ್‌ಗಳಲ್ಲಿ ವೀಡಿಯೊಗಳು ಲೋಡ್ ಆಗುವುದಿಲ್ಲ.</string>
+    <string name="solution_title">ನಮ್ಮ ಸ್ವಾಯತ್ತ ಆಫ್‌ಲೈನ್ ವಾಸ್ತುಶಿಲ್ಪ</string>
+    <string name="solution_desc">ನಮ್ಮ ಶಿಕ್ಷಣವು ಭಾರವಾದ ವೀಡಿಯೊಗಳ ಬದಲು ಅತೀ ಹಗುರವಾದ &lt;೧.೫MB ವೆಕ್ಟರ್ ಮಾಡ್ಯೂಲ್‌ಗಳು, ಆಫ್‌ಲೈನ್ Room SQLite ಸ್ಟೋರೇಜ್ ಮತ್ತು ವೈ-ಫೈ ಡೈರೆಕ್ಟ್ ಮೆಶ್ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸುತ್ತದೆ. ಶೂನ್ಯ ಇಂಟರ್ನೆಟ್ ಅಗತ್ಯವಿದೆ.</string>
+    <string name="spec_hardware_label">ಗುರಿ ಹಾರ್ಡ್‌ವೇರ್</string>
+    <string name="spec_hardware_val">2GB–3GB RAM ಫೋನ್‌ಗಳು</string>
+    <string name="spec_storage_label">ಡೇಟಾ ಸಂಗ್ರಹಣೆ</string>
+    <string name="spec_storage_val">ಸ್ಥಳೀಯ Room SQLite</string>
+    <string name="spec_p2p_label">P2P ಹಂಚಿಕೆ</string>
+    <string name="spec_p2p_val">ವೈ-ಫೈ ಡೈರೆಕ್ಟ್ ಮೆಶ್</string>
+    <string name="spec_weight_label">ಮಾಡ್ಯೂಲ್ ಗಾತ್ರ</string>
+    <string name="spec_weight_val">&lt; 1.5MB ವೆಕ್ಟರ್ ಪ್ಯಾಕ್‌ಗಳು</string>
+    <string name="guide_label">ಪ್ರಾಜೆಕ್ಟ್ ಮಾರ್ಗದರ್ಶಕರು</string>
+    <string name="guide_name">ಪ್ರೊ. ಶಿವಕುಮಾರ್</string>
+    <string name="guide_dept">ಕಂಪ್ಯೂಟರ್ ಸೈನ್ಸ್ ಮತ್ತು ಎಂಜಿನಿಯರಿಂಗ್ ವಿಭಾಗ, DBIT</string>
+    <string name="team_members_label">ತಂಡದ ಸದಸ್ಯರು (ವಿದ್ಯಾರ್ಥಿ ಎಂಜಿನಿಯರ್‌ಗಳು)</string>
+    <string name="dbit_short">DBIT ಬೆಂಗಳೂರು</string>
+
+    <string name="demo_tools_fab">ಡೆಮೊ ಸಾಧನಗಳು</string>
+    <string name="demo_helper_title">ಪ್ರಾಧ್ಯಾಪಕರು / ಹ್ಯಾಕಥಾನ್ ಡೆಮೊ ಪರೀಕ್ಷಕ</string>
+    <string name="demo_helper_sub">ಮೌಲ್ಯಮಾಪನ ಮತ್ತು ವೈವಾ ಪ್ರದರ್ಶನಕ್ಕಾಗಿ</string>
+    <string name="demo_last_active">ಕೊನೆಯ ಸಕ್ರಿಯ ದಿನಾಂಕ:</string>
+    <string name="demo_streak_count">ಸ್ಟ್ರೀಕ್ ದಿನಗಳು:</string>
+    <string name="demo_streak_freezes">ಸ್ಟ್ರೀಕ್ ಫ್ರೀಜ್‌ಗಳು:</string>
+    <string name="demo_total_xp">ಒಟ್ಟು XP:</string>
+    <string name="demo_streak_heading">ಸ್ಟ್ರೀಕ್ ನಿಯಮಗಳ ಪರೀಕ್ಷಾ ಸಿಮ್ಯುಲೇಶನ್:</string>
+    <string name="sim_streak_yesterday">ಪರೀಕ್ಷೆ: ಸತತ ದಿನ (+೧ ಸ್ಟ್ರೀಕ್)</string>
+    <string name="sim_streak_missed_1">ಪರೀಕ್ಷೆ: ೧ ದಿನ ಗೈರು (ಫ್ರೀಜ್ ಬಳಕೆ 🛡️)</string>
+    <string name="sim_streak_missed_3">ಪರೀಕ್ಷೆ: ೩ ದಿನ ಗೈರು (ಸ್ಟ್ರೀಕ್ ರೀಸೆಟ್)</string>
+    <string name="sim_add_xp">+50 XP (ಹಂತ ಏರಿಕೆ ಪರೀಕ್ಷೆ)</string>
+    <string name="reset_data">ಡೆಮೊ ಡೇಟಾ ಮರುಹೊಂದಿಸಿ</string>
+    <string name="close_cd">ಮುಚ್ಚಿ</string>
+
+    <string name="toast_quest_claimed">ಮಿಷನ್ ಬಹುಮಾನ ಪಡೆಯಲಾಗಿದೆ! +%1$d XP 🌟</string>
+    <string name="toast_quiz_xp">+%1$d XP ಗಳಿಸಲಾಗಿದೆ! 🌟</string>
+    <string name="toast_p2p_done">P2P ವರ್ಗಾವಣೆ ಪೂರ್ಣಗೊಂಡಿದೆ! 📡</string>
+    <string name="toast_streak_frozen">ಸ್ಟ್ರೀಕ್ ಫ್ರೀಜ್ ನಿಮ್ಮ 🔥 ಸ್ಟ್ರೀಕ್ ಉಳಿಸಿತು!</string>
+    <string name="toast_streak_reset">ಸ್ಟ್ರೀಕ್ ೧ ದಿನಕ್ಕೆ ಮರುಹೊಂದಿಸಲಾಗಿದೆ</string>
+    <string name="toast_streak_up">ಸ್ಟ್ರೀಕ್ ಹೆಚ್ಚಾಗಿದೆ! ಈಗ %1$d ದಿನಗಳು 🔥</string>
+    <string name="toast_level_up">ಹೊಸ ಹಂತ: %1$s! 🏆</string>
+    <string name="toast_reset_done">ಡೆಮೊ ಡೇಟಾ ಪೂರ್ವನಿಯೋಜಿತ ಸ್ಥಿತಿಗೆ ಮರುಹೊಂದಿಸಲಾಗಿದೆ</string>
+
+    <string name="p2p_speed_time">ವೇಗ: ೪.೮ MB/s · ವೈ-ಫೈ ಡೈರೆಕ್ಟ್ · ~೩ ಸೆ.</string>
+    <string name="p2p_distance_battery">%1$s · %2$d%% ಬ್ಯಾಟರಿ</string>
+    <string name="p2p_real_badge">ವೈ-ಫೈ ಡೈರೆಕ್ಟ್</string>
+    <string name="p2p_mesh_peer_badge">ಸ್ಥಳೀಯ ಮೆಶ್</string>
+    <string name="streak_days_short">%1$d ದಿನ</string>
+    <string name="rarity_bronze">ಕಂಚು</string>
+    <string name="rarity_silver">ಬೆಳ್ಳಿ</string>
+    <string name="rarity_gold">ಚಿನ್ನ</string>
+    <string name="rarity_platinum">ಪ್ಲಾಟಿನಂ</string>
+    <string name="team_member_1">ರಾಜ್ ಆನಂದ</string>
+    <string name="team_member_2">ಸ್ನೇಹಾ ಚನ್ನಕೇಶವಯ್ಯ</string>
+    <string name="team_member_3">ಶ್ರಿಯಾ ಕೆ ಎಚ್</string>
+    <string name="team_member_4">ಪ್ರಿಯಾಂಕಾ ಎಚ್</string>
+    <string name="team_role">ವಿದ್ಯಾರ್ಥಿ ಎಂಜಿನಿಯರ್, CSE ವಿಭಾಗ</string>
+</resources>

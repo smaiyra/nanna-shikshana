@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nanna Shikshana</string>
+    <string name="app_sub">ನಮ್ಮ ಶಿಕ್ಷಣ</string>
+    <string name="institution">Don Bosco Institute of Technology</string>
+    <string name="institution_full">Don Bosco Institute of Technology, Bangalore (Autonomous under VTU)</string>
+    <string name="lang_toggle_button">ಕನ್ನಡ (KN)</string>
+
+    <string name="offline_mode">100% Offline Mode · 0 KB Data</string>
+    <string name="storage_badge">Room SQLite</string>
+    <string name="sync_status_offline">Offline · %1$d queued</string>
+    <string name="sync_status_syncing">Syncing…</string>
+    <string name="sync_status_synced">Synced with server</string>
+    <string name="sync_now">Sync</string>
+
+    <string name="streak_title">Day Streak</string>
+    <string name="streak_freezes">Freezes</string>
+    <string name="current_level">Current Level</string>
+    <string name="xp_unit">%1$d XP</string>
+    <string name="progress_pct">%1$d%% Progress</string>
+    <string name="to_next_level">%1$d XP to next level</string>
+    <string name="max_rank_attained">Maximum Rank Attained</string>
+
+    <string name="daily_quests">Daily Quests</string>
+    <string name="resets_daily">Resets daily at 00:00</string>
+    <string name="claim_xp">Claim XP</string>
+    <string name="claimed">Claimed</string>
+
+    <string name="curriculum_feed">Karnataka Rural Curriculum (KTBS)</string>
+    <string name="modules_count">%1$d Modules</string>
+    <string name="filter_all">All</string>
+    <string name="filter_math">Math</string>
+    <string name="filter_science">Science</string>
+    <string name="filter_kannada">Kannada</string>
+    <string name="filter_social">Social</string>
+    <string name="start_lesson">Start Lesson</string>
+    <string name="resume_lesson">Resume</string>
+    <string name="completed_lesson">Completed</string>
+    <string name="vector_ready">Vector Module Ready</string>
+    <string name="download_pack">Download Pack</string>
+    <string name="pack_downloaded">Offline Pack Ready</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_learn">Reader &amp; Quiz</string>
+    <string name="tab_p2p">Mesh P2P</string>
+    <string name="tab_rank">Hall of Fame</string>
+    <string name="tab_about">Credits</string>
+
+    <string name="back_to_dashboard">Back to Modules</string>
+    <string name="mode_reader">Reader</string>
+    <string name="mode_quiz">Quiz (3)</string>
+    <string name="listen_kannada">Listen Audio 🔊</string>
+    <string name="stop_audio">Stop Audio ⏹️</string>
+    <string name="interactive_diagram">Interactive Learning Model</string>
+    <string name="lesson_concept">Core Concept &amp; Breakdown</string>
+    <string name="take_quiz_btn">Ready for 3-Question Mini Quiz</string>
+
+    <string name="fraction_title">Interactive Fraction Disc (Roti)</string>
+    <string name="fraction_sub">Tap any slice to toggle shaded parts</string>
+    <string name="fraction_filled">%1$d%% Filled</string>
+    <string name="fraction_value">Current Fraction</string>
+    <string name="fraction_formula">Numerator ÷ Denom</string>
+    <string name="fraction_set_slices">Set Slices (Denominator):</string>
+    <string name="fraction_slices_label">%1$d Slices</string>
+
+    <string name="photo_title">Photosynthesis Interactive Model</string>
+    <string name="photo_sub">Control solar &amp; water inputs to observe output</string>
+    <string name="photo_active">● Glucose Active</string>
+    <string name="photo_halted">▲ Reaction Halted</string>
+    <string name="sunlight_on">Sunlight: ON</string>
+    <string name="sunlight_off">Sunlight: OFF</string>
+    <string name="water_on">Water: ON</string>
+    <string name="water_off">Water: OFF</string>
+    <string name="reaction_label">Reaction:</string>
+    <string name="reaction_formula">6CO₂ + 6H₂O + Sunlight → C₆H₁₂O₆ + 6O₂</string>
+
+    <string name="vowel_title">Kannada Vowels Interactive Soundboard</string>
+    <string name="vowel_sub">Tap any vowel to hear native pronunciation</string>
+    <string name="listen_short">Listen</string>
+    <string name="vowel_example_caption">Pronunciation &amp; illustrative word</string>
+
+    <string name="hoysala_title">Hoysala Stellate Architecture Blueprint</string>
+    <string name="hoysala_sub">Belur Chennakeshava 16-point star layout</string>
+    <string name="hoysala_year">1117 CE</string>
+    <string name="hoysala_sanctum">Sanctum</string>
+    <string name="hoysala_tab_platform">Star Platform</string>
+    <string name="hoysala_tab_pillars">Pillars</string>
+    <string name="hoysala_tab_sculpture">Frieze Bands</string>
+    <string name="hoysala_desc_platform">16-Point Stellate Star Raised Platform</string>
+    <string name="hoysala_desc_pillars">Lathe-Turned Polished Soapstone Pillars</string>
+    <string name="hoysala_desc_sculpture">Horizontal Sculptural Bands (Strength &amp; Speed)</string>
+
+    <string name="quiz_question_progress">Question %1$d of %2$d</string>
+    <string name="quiz_pool">+%1$d XP Pool</string>
+    <string name="submit_answer">Confirm Choice</string>
+    <string name="next_question">Next Question</string>
+    <string name="see_results">View Quiz Results</string>
+    <string name="correct_answer">Brilliant! Correct Answer (+20 XP)</string>
+    <string name="incorrect_answer">Not quite. Check the concept note:</string>
+    <string name="quiz_completed">Quiz Completed!</string>
+    <string name="perfect_score">Flawless 100% Score! 🌟</string>
+    <string name="good_job">Great effort! Keep practicing.</string>
+    <string name="correct_answers_label">Correct Answers</string>
+    <string name="earn_total_xp">Total Earned</string>
+    <string name="retake_quiz">Retake Quiz</string>
+    <string name="finish_lesson">Complete Module &amp; Save</string>
+
+    <string name="p2p_title">Wi-Fi Direct P2P Mesh Sharing</string>
+    <string name="p2p_subtitle">Distribute lessons phone-to-phone with zero internet &amp; 0 KB mobile data cost</string>
+    <string name="transfer_speed">Avg Speed: 4.8 MB/s · Air-gapped Direct Transfer</string>
+    <string name="step_1">Step 1: Select Lesson Package</string>
+    <string name="step_2">Step 2: Discover Nearby Peer Phones</string>
+    <string name="step_3">Step 3: Transfer via High-Speed Wi-Fi Direct</string>
+    <string name="scan_radar_btn">Scan for Nearby Peer Phones</string>
+    <string name="rescan_radar_btn">Re-scan Nearby Phones</string>
+    <string name="scanning">Scanning Nearby Spectrum (Wi-Fi Direct)…</string>
+    <string name="found_peers">Discovered Classmate Devices (%1$d)</string>
+    <string name="transfer_btn">Transfer via Wi-Fi Direct</string>
+    <string name="transferring">Transferring Package over P2P Mesh…</string>
+    <string name="transfer_success">Transfer Complete &amp; Verified!</string>
+    <string name="hash_verified">Package Verified: 0KB Data Used</string>
+    <string name="checksum_label">SHA-256 Checksum:</string>
+    <string name="p2p_quest_bonus">+100 XP Quest 🌟</string>
+
+    <string name="leaderboard_title">Offline Village Classroom Leaderboard</string>
+    <string name="leaderboard_subtitle">Govt High School, Channapatna · Synchronized over local mesh</string>
+    <string name="rank_student_header">Rank &amp; Student</string>
+    <string name="streak_col">Streak</string>
+    <string name="xp_col">Total XP</string>
+    <string name="you_tag">YOU</string>
+    <string name="badges_title">Achievement Badges &amp; Rewards Hall</string>
+    <string name="badges_progress">%1$d / %2$d Unlocked</string>
+    <string name="unlocked_badge">Unlocked</string>
+    <string name="locked_badge">Locked</string>
+    <string name="rarity_badge">%1$s Badge</string>
+
+    <string name="about_header">Nanna Shikshana | ನಮ್ಮ ಶಿಕ್ಷಣ</string>
+    <string name="about_tagline">Zero-Internet Offline-First Gamified Learning Platform for Rural Karnataka</string>
+    <string name="academic_institution">Academic Institution</string>
+    <string name="college_name">Don Bosco Institute of Technology, Bangalore</string>
+    <string name="autonomous_tag">An Autonomous Institute Affiliated to VTU, Belagavi</string>
+    <string name="problem_statement">The Problem in Rural Karnataka</string>
+    <string name="problem_desc">Over 64% of rural students in Karnataka face intermittent grid power, exorbitant mobile data recharges (₹299/mo), and utilize hand-me-down budget Android smartphones (2GB-3GB RAM) with slow storage. Cloud-based video learning fails completely in these conditions.</string>
+    <string name="solution_title">Our Autonomous Offline-First Architecture</string>
+    <string name="solution_desc">Nanna Shikshana replaces heavy video streaming with ultralight &lt;1.5MB vector modules, client-side Room SQLite persistence, and local Wi-Fi Direct mesh distribution. Zero internet required.</string>
+    <string name="spec_hardware_label">Target Hardware</string>
+    <string name="spec_hardware_val">2GB–3GB RAM Phones</string>
+    <string name="spec_storage_label">Data Storage</string>
+    <string name="spec_storage_val">Local Room SQLite</string>
+    <string name="spec_p2p_label">P2P Distribution</string>
+    <string name="spec_p2p_val">Wi-Fi Direct Mesh</string>
+    <string name="spec_weight_label">Module Weight</string>
+    <string name="spec_weight_val">&lt; 1.5MB Vector Packs</string>
+    <string name="guide_label">Project Mentor &amp; Guide</string>
+    <string name="guide_name">Prof. Sivakumar</string>
+    <string name="guide_dept">Department of Computer Science &amp; Engineering, DBIT</string>
+    <string name="team_members_label">Team Members (Student Engineers)</string>
+    <string name="dbit_short">DBIT Bangalore</string>
+
+    <string name="demo_tools_fab">Demo Tools</string>
+    <string name="demo_helper_title">Faculty / Hackathon Demo Helpers</string>
+    <string name="demo_helper_sub">For Evaluators &amp; Viva Demonstration</string>
+    <string name="demo_last_active">Last Active Date:</string>
+    <string name="demo_streak_count">Streak Count:</string>
+    <string name="demo_streak_freezes">Streak Freezes:</string>
+    <string name="demo_total_xp">Total XP:</string>
+    <string name="demo_streak_heading">Anti-Cheating Streak Logic Simulation:</string>
+    <string name="sim_streak_yesterday">Test: Consecutive Day (+1 Streak)</string>
+    <string name="sim_streak_missed_1">Test: Missed 1 Day (Use Freeze 🛡️)</string>
+    <string name="sim_streak_missed_3">Test: Missed 3 Days (Streak Reset)</string>
+    <string name="sim_add_xp">+50 XP (Test Level Up)</string>
+    <string name="reset_data">Reset Demo Data</string>
+    <string name="close_cd">Close</string>
+
+    <string name="toast_quest_claimed">Quest Reward Claimed! +%1$d XP 🌟</string>
+    <string name="toast_quiz_xp">+%1$d XP Earned! 🌟</string>
+    <string name="toast_p2p_done">P2P Transfer Complete! 📡</string>
+    <string name="toast_streak_frozen">Streak Freeze Saved Your 🔥 Streak!</string>
+    <string name="toast_streak_reset">Streak Reset to 1 Day</string>
+    <string name="toast_streak_up">Streak Incremented! Now %1$d Days 🔥</string>
+    <string name="toast_level_up">Level Up: %1$s! 🏆</string>
+    <string name="toast_reset_done">Demo Prototype Reset to Defaults</string>
+
+    <string name="p2p_speed_time">Speed: 4.8 MB/s · Wi-Fi Direct · ~3s</string>
+    <string name="p2p_distance_battery">%1$s · %2$d%% battery</string>
+    <string name="p2p_real_badge">Wi-Fi Direct</string>
+    <string name="p2p_mesh_peer_badge">Local Mesh</string>
+    <string name="streak_days_short">%1$dd</string>
+    <string name="rarity_bronze">Bronze</string>
+    <string name="rarity_silver">Silver</string>
+    <string name="rarity_gold">Gold</string>
+    <string name="rarity_platinum">Platinum</string>
+    <string name="team_member_1">Raj Ananda</string>
+    <string name="team_member_2">Sneha Channakeshavaiah</string>
+    <string name="team_member_3">Shriya K H</string>
+    <string name="team_member_4">Priyanka H</string>
+    <string name="team_role">Student Engineer, Dept. of CSE</string>
+</resources>
